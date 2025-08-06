@@ -1,5 +1,5 @@
-json
-pandas
-pycaret.clustering
-plotly.express
+json5=0.12.0
+pandas=2.1.4
+pycaret=3.3.2
+plotly=5.24.1
 streamlit
