@@ -6,7 +6,7 @@ import plotly.express as px
 
 DATA = 'welcome_survey_simple_v2.csv'
 
-MODEL_NAME='welcome_survey_clustering_pipeline_v1'
+MODEL_NAME='welcome_survey_clustering_pipeline_v2'
 
 CLUSTER_NAME_AND_DESCRIPTIONS="welcome_survey_cluster_names_and_descriptions_v2.json"
 
